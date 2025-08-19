@@ -1,1 +1,1 @@
-# DAA-Practical no.1
+# DAA-Practicals
